@@ -18,9 +18,7 @@ You can read the live post at:
 - [Performance Implications](#performance-implications)  
 - [When to Use Which Rule](#when-to-use-which-rule)  
 - [Conclusion](#conclusion)  
-- [Repository Structure](#repository-structure)  
-- [How to Contribute / Edit](#how-to-contribute--edit)  
-- [License](#license)
+
 
 ---
 
